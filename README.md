@@ -7,7 +7,7 @@
 ## スライド資料
 googleドライブにで共有しています。  
 後日slideshareとかにも移すかも  
-URL: https://docs.google.com/presentation/d/1QWPzpmH9fR0naM4lU7DPtxZtMD30ya6PUspU006qWRc/edit?usp=sharing
+URL: https://docs.google.com/presentation/d/11E3WqSnMDRlGhuuJyQTfezDSi9qwOOwBo26ubZ5HOro/edit?usp=sharing
 
 ## フォルダ構成
     Source: ハンズオンで用いるソースコードを0～5まで入れてあります
