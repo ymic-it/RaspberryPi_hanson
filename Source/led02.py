@@ -18,6 +18,7 @@ GPIO.setup(inPin, GPIO.IN)
 try:
     # メインループ
     while True:
+        print(GPIO.input(inPin))
         if GPIO.input(inPin) == GPIO.HIGH:
             GPIO.output(outPin, GPIO.HIGH)
         else:

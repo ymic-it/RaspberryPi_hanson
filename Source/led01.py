@@ -1,5 +1,4 @@
 # coding: UTF-8
-# 押している間LEDがつくプログラム
 
 import RPi.GPIO as GPIO
 import time
